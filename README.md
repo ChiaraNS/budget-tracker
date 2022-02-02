@@ -2,7 +2,6 @@
 
 ![budget-tracker](public/images/budgettracker-sc.png)
 ## Table of contents
-* [budget-tracker Link](https://chiarans.github.io/budget-tracker/)
 * [Heroku Link](https://budgettracker-chal19.herokuapp.com/)
 * [General info](#general-info)
 * [Technologies](#technologies)
